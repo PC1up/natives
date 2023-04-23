@@ -8,6 +8,9 @@ ns: VEHICLE
 float GET_VEHICLE_CLASS_MAX_ACCELERATION(int vehicleClass);
 ```
 
+```
+For vehicle classes see 0x29439776AAA00A62
+```
 
 ## Parameters
 * **vehicleClass**: 
